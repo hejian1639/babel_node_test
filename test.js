@@ -26,6 +26,11 @@ import { createStore, combineReducers } from 'redux'
 
 var store_0 = createStore(userReducer)
 
+store_0.subscribe(function() {
+    console.log('store_0 has been updated. Latest store state:', store_0.getState());
+    // 在这里更新你的视图
+})
+
 console.log('store_0 state after initialization:', store_0.getState())
 
 store_0.dispatch({
