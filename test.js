@@ -83,3 +83,9 @@ todos.add(new Todo());
 todos.add(new Todo());
 console.log(todos);
 
+var visibilityFilter = { '1': 'SHOW_ALL', '2': 'SHOW_ALL' };
+
+var list = Object.keys(visibilityFilter).map(key => key);
+
+
+console.log(list);
