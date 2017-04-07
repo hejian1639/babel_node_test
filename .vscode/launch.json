@@ -7,14 +7,32 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Launch test",
+            "program": "${workspaceRoot}/babel_register.js",
+            "args": [
+                "--script",
+                "./test.js"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Launch babel server",
-            "program": "${workspaceRoot}/babel_register.js"
+            "program": "${workspaceRoot}/babel_register.js",
+            "args": [
+                "--script",
+                "./server.js"
+            ]
         },
         {
             "type": "node",
             "request": "launch",
             "name": "Launch index",
-            "program": "${workspaceRoot}/index.js"
+            "program": "${workspaceRoot}/index.js",
+            "args": [
+                "--script",
+                "hello"
+            ]
         },
   
         {
