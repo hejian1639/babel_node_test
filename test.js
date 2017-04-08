@@ -89,3 +89,12 @@ var list = Object.keys(visibilityFilter).map(key => key);
 
 
 console.log(list);
+
+
+console.time('using[]')
+for(var i=0; i<200000; i++){var arr = []};
+console.timeEnd('using[]')
+
+console.time('using new')
+for(var i=0; i<200000; i++){var arr = new Array};
+console.timeEnd('using new')

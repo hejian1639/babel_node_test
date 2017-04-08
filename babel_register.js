@@ -1,4 +1,6 @@
-require('babel-register');
+require('babel-register')({
+  "presets": ["es2015"]
+});
 
 console.log(process.argv);
 var program = require('commander');
