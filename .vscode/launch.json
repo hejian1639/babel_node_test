@@ -7,6 +7,18 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Launch decorator test",
+            "program": "${workspaceRoot}/decorator_test_compiled.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch mobx test",
+            "program": "${workspaceRoot}/mobx_test_compiled.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Launch test",
             "program": "${workspaceRoot}/babel_register.js",
             "args": [
@@ -34,7 +46,6 @@
                 "hello"
             ]
         },
-  
         {
             "type": "node",
             "request": "attach",
