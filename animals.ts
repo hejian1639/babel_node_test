@@ -21,7 +21,7 @@ class Horse extends Animal {
     }
 }
 
-var sam = new Snake("Sammy the Python")
+var sam: Snake = new Snake("Sammy the Python")
 var tom: Animal = new Horse("Tommy the Palomino")
 
 sam.move()
@@ -54,3 +54,20 @@ class ConsoleLogger {
 }
 var jim = extend(new Person("Jim"), new ConsoleLogger());
 jim.log();
+
+class Component<P>{
+    public props: P;
+}
+
+var c: Component<{ animal?: Animal }> = new Component<{ a: Animal }>();
+c.props = {animal: new Animal('cat')};
+
+var c1: Component<{ animal: Animal }> = new Component<{ animal: Animal }>();
+c1.props = {animal: new Snake("Sammy the Python")};
+
+interface IScrollOptions {
+	x: number;
+	y?: number;
+}
+
+var opt: IScrollOptions= {x:2};
