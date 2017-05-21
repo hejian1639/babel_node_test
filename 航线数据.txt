@@ -1,0 +1,1549 @@
+/* 1 */
+{
+    "_id" : "9947b6d635061409d8aa3c1e593b2af8d8906b1f",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 35,
+        "body_lateral_acceleration" : -0.0009765625,
+        "body_longitudinal_acceleration" : -0.0185546875,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.395732206,
+        "longitude" : 113.2942924018,
+        "mag_heading" : 16.12292942,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : 13.408813324
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585609549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597328510)
+}
+
+/* 2 */
+{
+    "_id" : "4bb60f233f03d4fffee26d195a2e4c18990a4857",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 35,
+        "body_lateral_acceleration" : -0.005859375,
+        "body_longitudinal_acceleration" : -0.013671875,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "1",
+        "latitude" : 23.395732206,
+        "longitude" : 113.2941207404,
+        "mag_heading" : 16.12292942,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : 13.414306488
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585619121),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597328595)
+}
+
+/* 3 */
+{
+    "_id" : "03a7e01fb0e7f1d408ed5509247c93ab2fdc7290",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 35,
+        "body_lateral_acceleration" : -0.0029296875,
+        "body_longitudinal_acceleration" : -0.0146484375,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "1",
+        "latitude" : 23.395732206,
+        "longitude" : 113.2941207404,
+        "mag_heading" : 16.17786274,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : 13.469238128
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585619549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597328681)
+}
+
+/* 4 */
+{
+    "_id" : "289dcfac85e1f3f151fa5e8bea478bedf3e0d5a0",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 35,
+        "body_lateral_acceleration" : -0.001953125,
+        "body_longitudinal_acceleration" : -0.01171875,
+        "body_normal_acceleration" : -0.001953125,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.3955605446,
+        "longitude" : 113.2941207404,
+        "mag_heading" : 16.458022672,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : 13.743896328
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585629548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597328767)
+}
+
+/* 5 */
+{
+    "_id" : "3dff31560af08cf0228608eaa35c18e7c28b7733",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 35,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : -0.0078125,
+        "body_normal_acceleration" : 0,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.3955605446,
+        "longitude" : 113.2941207404,
+        "mag_heading" : 16.738182604,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : 14.029540856
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585639548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597328853)
+}
+
+/* 6 */
+{
+    "_id" : "57d57497bf52938891ebbb8e6d417a2252a8a9fa",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 36,
+        "body_lateral_acceleration" : -0.0009765625,
+        "body_longitudinal_acceleration" : -0.0087890625,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.3953888832,
+        "longitude" : 113.2941207404,
+        "mag_heading" : 16.331676036,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : 13.617553556
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585649549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597328938)
+}
+
+/* 7 */
+{
+    "_id" : "01b5d3a5fae6a3e9fa0a7a2127fc4d528872d1ad",
+    "data" : {
+        "air_temp" : 29.01416708,
+        "altitude" : "46",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 36,
+        "body_lateral_acceleration" : 0.00390625,
+        "body_longitudinal_acceleration" : -0.0107421875,
+        "body_normal_acceleration" : -0.001953125,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.3952172218,
+        "longitude" : 113.2941207404,
+        "mag_heading" : 8.338877976,
+        "total_air_temperature" : 29.01416708,
+        "true_airspeed" : 0,
+        "true_heading" : 5.6304931
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585659548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329024)
+}
+
+/* 8 */
+{
+    "_id" : "8de6ea47cf0d1a606f46b4da976eb8ba8e031289",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 37,
+        "body_lateral_acceleration" : -0.0009765625,
+        "body_longitudinal_acceleration" : -0.009765625,
+        "body_normal_acceleration" : -0.0029296875,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.3952172218,
+        "longitude" : 113.2941207404,
+        "mag_heading" : -9.55839768,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : -12.271728376
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585669549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329109)
+}
+
+/* 9 */
+{
+    "_id" : "535c27248f481232549cc1dcb8bbf8116555e420",
+    "data" : {
+        "air_temp" : 29.01416708,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : 0.0029296875,
+        "body_longitudinal_acceleration" : -0.0126953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.3950455604,
+        "longitude" : 113.2941207404,
+        "mag_heading" : -32.471085452,
+        "total_air_temperature" : 29.01416708,
+        "true_airspeed" : 0,
+        "true_heading" : -35.178222256
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585679121),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329193)
+}
+
+/* 10 */
+{
+    "_id" : "3e660cfa43534b1a67a3d712bbe5aff7d90d2017",
+    "data" : {
+        "air_temp" : 29.26428921,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 37,
+        "body_lateral_acceleration" : -0.0048828125,
+        "body_longitudinal_acceleration" : -0.0087890625,
+        "body_normal_acceleration" : 0,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.3950455604,
+        "longitude" : 113.2941207404,
+        "mag_heading" : -33.827938456,
+        "total_air_temperature" : 29.26428921,
+        "true_airspeed" : 0,
+        "true_heading" : -36.535033764
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585679549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329277)
+}
+
+/* 11 */
+{
+    "_id" : "abaf7e9ea9f19af3580362dbd977d72ec76023c3",
+    "data" : {
+        "air_temp" : 29.01416708,
+        "altitude" : "46",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : -0.0068359375,
+        "body_longitudinal_acceleration" : -0.001953125,
+        "body_normal_acceleration" : 0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2941207404,
+        "mag_heading" : -62.206491568,
+        "total_air_temperature" : 29.01416708,
+        "true_airspeed" : 0,
+        "true_heading" : -64.912718988
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585689548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329445)
+}
+
+/* 12 */
+{
+    "_id" : "3aae8179054ef09b3280c5841abf11d0f794afee",
+    "data" : {
+        "air_temp" : 29.01416708,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : -0.009765625,
+        "body_longitudinal_acceleration" : 0.009765625,
+        "body_normal_acceleration" : 0,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "1",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2941207404,
+        "mag_heading" : -72.48451574,
+        "total_air_temperature" : 29.01416708,
+        "true_airspeed" : 0,
+        "true_heading" : -75.190428832
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585699548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329530)
+}
+
+/* 13 */
+{
+    "_id" : "01c4fcc41e9b5e37d8b6300b078d155a85759672",
+    "data" : {
+        "air_temp" : 29.01416708,
+        "altitude" : "46",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : 0,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.588889048,
+        "total_air_temperature" : 29.01416708,
+        "true_airspeed" : 0,
+        "true_heading" : -75.294798948
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585709548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329615)
+}
+
+/* 14 */
+{
+    "_id" : "0bb734a454413194cbd45a794fc754f04eacc36b",
+    "data" : {
+        "air_temp" : 29.01416708,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 39,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0.0029296875,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.59438238,
+        "total_air_temperature" : 29.01416708,
+        "true_airspeed" : 0,
+        "true_heading" : -75.300292112
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585719548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329788)
+}
+
+/* 15 */
+{
+    "_id" : "dcf4939802fad89d8302d59e6744cdbe77d0aa32",
+    "data" : {
+        "air_temp" : 28.76404495,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 39,
+        "body_lateral_acceleration" : -0.005859375,
+        "body_longitudinal_acceleration" : 0,
+        "body_normal_acceleration" : 0,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.76404495,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585729549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597329872)
+}
+
+/* 16 */
+{
+    "_id" : "a58a3754257e74c56552c8addb9aac69b4792795",
+    "data" : {
+        "air_temp" : 28.76404495,
+        "altitude" : "47",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 40,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.605369044,
+        "total_air_temperature" : 28.76404495,
+        "true_airspeed" : 0,
+        "true_heading" : -75.31127844
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585739122),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330294)
+}
+
+/* 17 */
+{
+    "_id" : "929ea240029d6335049d07b69f33975e1a480d6a",
+    "data" : {
+        "air_temp" : 28.76404495,
+        "altitude" : "47",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 40,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.605369044,
+        "total_air_temperature" : 28.76404495,
+        "true_airspeed" : 0,
+        "true_heading" : -75.316771604
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585739548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330379)
+}
+
+/* 18 */
+{
+    "_id" : "9c6a1de129e1fb1a57c780b0d4de82b6174fc50a",
+    "data" : {
+        "air_temp" : 28.76404495,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 40,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0.0009765625,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.610862376,
+        "total_air_temperature" : 28.76404495,
+        "true_airspeed" : 0,
+        "true_heading" : -75.316771604
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585749549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330463)
+}
+
+/* 19 */
+{
+    "_id" : "5e5281a13051b3be653d8768a191ae87ffe938a6",
+    "data" : {
+        "air_temp" : 28.76404495,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 40,
+        "body_lateral_acceleration" : -0.001953125,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : 0,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.610862376,
+        "total_air_temperature" : 28.76404495,
+        "true_airspeed" : 0,
+        "true_heading" : -75.316771604
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585759549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330549)
+}
+
+/* 20 */
+{
+    "_id" : "9e932e8297c5bd4ce22ee2575e1bef7abdafd15e",
+    "data" : {
+        "air_temp" : 28.76404495,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 40,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0.0009765625,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.76404495,
+        "true_airspeed" : 0,
+        "true_heading" : -75.31127844
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585769548),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330632)
+}
+
+/* 21 */
+{
+    "_id" : "854df50429d0bb97b9b8569affd45f6ee58e299b",
+    "data" : {
+        "air_temp" : 28.51392282,
+        "altitude" : "47",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 40,
+        "body_lateral_acceleration" : -0.0029296875,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.51392282,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585779549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330719)
+}
+
+/* 22 */
+{
+    "_id" : "bf4b83be60885ebb528740ba8d81398743573f4d",
+    "data" : {
+        "air_temp" : 28.51392282,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 41,
+        "body_lateral_acceleration" : -0.0048828125,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.51392282,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585789549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330806)
+}
+
+/* 23 */
+{
+    "_id" : "bba9b36e99f921718f32850306952de2cb337e27",
+    "data" : {
+        "air_temp" : 28.51392282,
+        "altitude" : "48",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 41,
+        "body_lateral_acceleration" : -0.001953125,
+        "body_longitudinal_acceleration" : 0.0029296875,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.51392282,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585799122),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330891)
+}
+
+/* 24 */
+{
+    "_id" : "f2777d1ce8a2bbef9e7c0f5b45543c56f5739977",
+    "data" : {
+        "air_temp" : 28.51392282,
+        "altitude" : "48",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 41,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0.0009765625,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.51392282,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585799553),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597330975)
+}
+
+/* 25 */
+{
+    "_id" : "905c80b2d95b334c9dd02bbca3df00aed8f9a56c",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "48",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 42,
+        "body_lateral_acceleration" : -0.0048828125,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.605369044,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.31127844
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585809550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331146)
+}
+
+/* 26 */
+{
+    "_id" : "2e49feda7777090cea9cdc99726aa77393e3c1ca",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "47",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 41,
+        "body_lateral_acceleration" : -0.005859375,
+        "body_longitudinal_acceleration" : 0,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.605369044,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.31127844
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585819549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331231)
+}
+
+/* 27 */
+{
+    "_id" : "e7633eb89fbe478a7f8c2ca2820b70703271ffa5",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "48",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 42,
+        "body_lateral_acceleration" : -0.001953125,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585829550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331315)
+}
+
+/* 28 */
+{
+    "_id" : "0634819a0592a0cf05c459a6d76c6e0b9c2bc883",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "48",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 43,
+        "body_lateral_acceleration" : -0.0029296875,
+        "body_longitudinal_acceleration" : 0,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585839549),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331399)
+}
+
+/* 29 */
+{
+    "_id" : "02fc16770e467d2867fbbc69cb61d21a021bf088",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "48",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 42,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0.001953125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585849550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331483)
+}
+
+/* 30 */
+{
+    "_id" : "5e7bcfbb9682c41fc28024658edb5034bdb268c5",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "48",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 42,
+        "body_lateral_acceleration" : -0.00390625,
+        "body_longitudinal_acceleration" : 0.0068359375,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.59438238,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.300292112
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585859122),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331652)
+}
+
+/* 31 */
+{
+    "_id" : "4e542967b06b7271d4c00ae9fb1524a2a13bb764",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "48",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 43,
+        "body_lateral_acceleration" : -0.0029296875,
+        "body_longitudinal_acceleration" : 0.005859375,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "0",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2942924018,
+        "mag_heading" : -72.599875712,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.305785276
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585859550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331737)
+}
+
+/* 32 */
+{
+    "_id" : "2693e8fd5c4f212ff832ce39ecf0ac326a4152b6",
+    "data" : {
+        "air_temp" : 28.26380069,
+        "altitude" : "48",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 43,
+        "body_lateral_acceleration" : -0.0048828125,
+        "body_longitudinal_acceleration" : 0.0087890625,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "1",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2941207404,
+        "mag_heading" : -72.413102424,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.1190177
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585869550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331820)
+}
+
+/* 33 */
+{
+    "_id" : "646035620253a0e8c19d086e089d1829ce73c29b",
+    "data" : {
+        "air_temp" : 28.01367856,
+        "altitude" : "48",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 43,
+        "body_lateral_acceleration" : 0.0029296875,
+        "body_longitudinal_acceleration" : 0.0078125,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "2",
+        "latitude" : 23.394873899,
+        "longitude" : 113.2941207404,
+        "mag_heading" : -73.160195576,
+        "total_air_temperature" : 28.26380069,
+        "true_airspeed" : 0,
+        "true_heading" : -75.866088004
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585879550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331905)
+}
+
+/* 34 */
+{
+    "_id" : "49f91df48e2896be533ad3a7f88f1132ce0bad67",
+    "data" : {
+        "air_temp" : 27.76355643,
+        "altitude" : "49",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 44,
+        "body_lateral_acceleration" : 0,
+        "body_longitudinal_acceleration" : 0.0146484375,
+        "body_normal_acceleration" : -0.001953125,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "4",
+        "latitude" : 23.394873899,
+        "longitude" : 113.293949079,
+        "mag_heading" : -73.237102224,
+        "total_air_temperature" : 27.76355643,
+        "true_airspeed" : 0,
+        "true_heading" : -75.9429923
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585889551),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597331990)
+}
+
+/* 35 */
+{
+    "_id" : "b4f731850ea730fe3740eadcc95c28a389d1218d",
+    "data" : {
+        "air_temp" : 27.5134343,
+        "altitude" : "49",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 44,
+        "body_lateral_acceleration" : -0.01171875,
+        "body_longitudinal_acceleration" : 0.009765625,
+        "body_normal_acceleration" : -0.0048828125,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "7",
+        "latitude" : 23.3950455604,
+        "longitude" : 113.2936057562,
+        "mag_heading" : -73.270062216,
+        "total_air_temperature" : 27.76355643,
+        "true_airspeed" : 0,
+        "true_heading" : -75.975951284
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585899550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332076)
+}
+
+/* 36 */
+{
+    "_id" : "4a47ae3df02b089e8233c90a23b3336565103b79",
+    "data" : {
+        "air_temp" : 27.5134343,
+        "altitude" : "48",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 42,
+        "body_lateral_acceleration" : -0.013671875,
+        "body_longitudinal_acceleration" : 0.005859375,
+        "body_normal_acceleration" : 0.001953125,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "10",
+        "latitude" : 23.3950455604,
+        "longitude" : 113.2932624334,
+        "mag_heading" : -73.594168804,
+        "total_air_temperature" : 27.5134343,
+        "true_airspeed" : 0,
+        "true_heading" : -76.30004796
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585909550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332162)
+}
+
+/* 37 */
+{
+    "_id" : "a48d83648b1390dd5f20623bd6c74e2b5f104c5a",
+    "data" : {
+        "air_temp" : 27.5134343,
+        "altitude" : "48",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 41,
+        "body_lateral_acceleration" : 0,
+        "body_longitudinal_acceleration" : 0.0087890625,
+        "body_normal_acceleration" : -0.0029296875,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "13",
+        "latitude" : 23.3952172218,
+        "longitude" : 113.2925757878,
+        "mag_heading" : -73.588675472,
+        "total_air_temperature" : 27.5134343,
+        "true_airspeed" : 0,
+        "true_heading" : -76.30004796
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585919122),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332247)
+}
+
+/* 38 */
+{
+    "_id" : "6a2b5a8c957b979aa3fc35411950aa4a4680c16f",
+    "data" : {
+        "air_temp" : 27.5134343,
+        "altitude" : "48",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 41,
+        "body_lateral_acceleration" : -0.005859375,
+        "body_longitudinal_acceleration" : 0.0078125,
+        "body_normal_acceleration" : 0.009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "13",
+        "latitude" : 23.3952172218,
+        "longitude" : 113.2925757878,
+        "mag_heading" : -73.495288828,
+        "total_air_temperature" : 27.5134343,
+        "true_airspeed" : 0,
+        "true_heading" : -76.195677844
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585919550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332332)
+}
+
+/* 39 */
+{
+    "_id" : "4d5809c39303c0dccdb821431036c5530d34e768",
+    "data" : {
+        "air_temp" : 27.26331217,
+        "altitude" : "47",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 39,
+        "body_lateral_acceleration" : 0.001953125,
+        "body_longitudinal_acceleration" : 0.0048828125,
+        "body_normal_acceleration" : 0.0068359375,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "12",
+        "latitude" : 23.3953888832,
+        "longitude" : 113.2920608036,
+        "mag_heading" : -73.154702244,
+        "total_air_temperature" : 27.26331217,
+        "true_airspeed" : 0,
+        "true_heading" : -75.86059484
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585929551),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332502)
+}
+
+/* 40 */
+{
+    "_id" : "a82b27ea757642f4c280dd8a0ae04e5da5b86ac0",
+    "data" : {
+        "air_temp" : 27.26331217,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 40,
+        "body_lateral_acceleration" : -0.0634765625,
+        "body_longitudinal_acceleration" : -0.01171875,
+        "body_normal_acceleration" : -0.00390625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "9",
+        "latitude" : 23.3953888832,
+        "longitude" : 113.2915458194,
+        "mag_heading" : -98.16584284,
+        "total_air_temperature" : 27.26331217,
+        "true_airspeed" : 0,
+        "true_heading" : -100.876463696
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585939550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332587)
+}
+
+/* 41 */
+{
+    "_id" : "3f3684205d5e88ea6cca6341676e34c502cbc706",
+    "data" : {
+        "air_temp" : 27.01319004,
+        "altitude" : "46",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : 0.009765625,
+        "body_longitudinal_acceleration" : 0.005859375,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "9",
+        "latitude" : 23.3952172218,
+        "longitude" : 113.2912024966,
+        "mag_heading" : -155.400868948,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -158.104246248
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585949550),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332673)
+}
+
+/* 42 */
+{
+    "_id" : "ffae97546e32ae8c3083cb1251844e99c5bff2a2",
+    "data" : {
+        "air_temp" : 27.01319004,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : -0.001953125,
+        "body_longitudinal_acceleration" : 0.01171875,
+        "body_normal_acceleration" : 0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "10",
+        "latitude" : 23.3947022376,
+        "longitude" : 113.2910308352,
+        "mag_heading" : -163.734253592,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -166.437376036
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585959551),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332757)
+}
+
+/* 43 */
+{
+    "_id" : "944b98e485593339487d4eea3d26097cb6c46522",
+    "data" : {
+        "air_temp" : 27.01319004,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : 0.009765625,
+        "body_longitudinal_acceleration" : -0.0029296875,
+        "body_normal_acceleration" : 0,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "11",
+        "latitude" : 23.3941872534,
+        "longitude" : 113.2910308352,
+        "mag_heading" : -163.31676036,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -166.025388736
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585969551),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332844)
+}
+
+/* 44 */
+{
+    "_id" : "198a642ffbc3b1a3edfceaea761e53f7e9a2e787",
+    "data" : {
+        "air_temp" : 26.76306791,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : 0.00390625,
+        "body_longitudinal_acceleration" : -0.0009765625,
+        "body_normal_acceleration" : 0.00390625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "12",
+        "latitude" : 23.3936722692,
+        "longitude" : 113.2908591738,
+        "mag_heading" : -163.311267028,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -166.014402408
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585979122),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597332928)
+}
+
+/* 45 */
+{
+    "_id" : "346ac8ccfc5d33199623e677f24fc24ae283c5d0",
+    "data" : {
+        "air_temp" : 27.01319004,
+        "altitude" : "47",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : -0.0068359375,
+        "body_longitudinal_acceleration" : 0.0048828125,
+        "body_normal_acceleration" : 0.005859375,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "12",
+        "latitude" : 23.3936722692,
+        "longitude" : 113.2908591738,
+        "mag_heading" : -163.432120332,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -166.135252016
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585979551),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597333015)
+}
+
+/* 46 */
+{
+    "_id" : "9e12a0a589e8c2c05d2e20feccbc127eed286b57",
+    "data" : {
+        "air_temp" : 26.76306791,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : 0.0009765625,
+        "body_longitudinal_acceleration" : 0.0029296875,
+        "body_normal_acceleration" : -0.0009765625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "13",
+        "latitude" : 23.393157285,
+        "longitude" : 113.2906875124,
+        "mag_heading" : -163.349720352,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -166.052854556
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585989551),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597333099)
+}
+
+/* 47 */
+{
+    "_id" : "5ea45601fe0a63a6ede96434f6ed906939e98ab8",
+    "data" : {
+        "air_temp" : 27.01319004,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 39,
+        "body_lateral_acceleration" : -0.0126953125,
+        "body_longitudinal_acceleration" : 0.013671875,
+        "body_normal_acceleration" : 0.0029296875,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "14",
+        "latitude" : 23.3924706394,
+        "longitude" : 113.290515851,
+        "mag_heading" : -163.338733688,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -166.041868228
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494585999552),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597333183)
+}
+
+/* 48 */
+{
+    "_id" : "ea2a83997c6a4cc66a3637098d16d89e3be0c97f",
+    "data" : {
+        "air_temp" : 27.01319004,
+        "altitude" : "46",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : -0.0078125,
+        "body_longitudinal_acceleration" : 0.01953125,
+        "body_normal_acceleration" : -0.0087890625,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "15",
+        "latitude" : 23.3917839938,
+        "longitude" : 113.2903441896,
+        "mag_heading" : -163.23436038,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -165.937498112
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494586009551),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597333267)
+}
+
+/* 49 */
+{
+    "_id" : "f1cf677d82b3dd5d0a947417fa608b38eceef39a",
+    "data" : {
+        "air_temp" : 27.01319004,
+        "altitude" : "47",
+        "altitude_rate" : -16,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : -0.001953125,
+        "body_longitudinal_acceleration" : 0.009765625,
+        "body_normal_acceleration" : 0.0068359375,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "15",
+        "latitude" : 23.3910973482,
+        "longitude" : 113.2901725282,
+        "mag_heading" : -163.020120432,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -165.723264716
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494586019552),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597333352)
+}
+
+/* 50 */
+{
+    "_id" : "662b3844dfce93a49dfe616b3c94284e9bd22876",
+    "data" : {
+        "air_temp" : 26.76306791,
+        "altitude" : "47",
+        "altitude_rate" : 0,
+        "baro_corrected_altitude" : 38,
+        "body_lateral_acceleration" : -0.009765625,
+        "body_longitudinal_acceleration" : 0.0107421875,
+        "body_normal_acceleration" : 0.001953125,
+        "computed_airspeed" : 0,
+        "flight_path_angle" : 0,
+        "fly_speed" : "0",
+        "ground_speed" : "16",
+        "latitude" : 23.3904107026,
+        "longitude" : 113.2900008668,
+        "mag_heading" : -163.256333708,
+        "total_air_temperature" : 27.01319004,
+        "true_airspeed" : 0,
+        "true_heading" : -165.959470768
+    },
+    "deviceId" : "T:B-6288",
+    "origin" : "system",
+    "platform" : "IFE: Linux amd64 3.10.0-123.el7.x86_64",
+    "ts" : NumberLong(1494586029552),
+    "type" : "plane_info",
+    "planeUniqueNo" : "T:B-6288",
+    "receiveTime" : NumberLong(1494597333437)
+}

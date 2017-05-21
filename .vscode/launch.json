@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Launch gps test",
+            "program": "${workspaceRoot}/gps.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Launch decorator test",
             "program": "${workspaceRoot}/decorator_test_compiled.js"
         },
