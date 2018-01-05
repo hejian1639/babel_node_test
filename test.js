@@ -1,16 +1,45 @@
+var minimatch = require('minimatch')
 
-var obj = {};
+var packages = {
+    '@*/*': {
+        access: [
+            '$all'
+        ],
+        publish: [
+            '$authenticated'
+        ],
+        proxy: [
 
-obj['1'] = 'a';
-console.log(obj);
+        ]
+    },
+    '*': {
+        access: [
+            '$all'
+        ],
+        publish: [
+            '$authenticated'
+        ],
+        proxy: [
+            'npmjs'
+        ]
+    },
+    '**': {
+        access: [
 
-obj['1'] = 'b';
-console.log(obj);
+        ],
+        publish: [
 
-obj['str'] = 'c';
-console.log(obj);
+        ],
+        proxy: [
 
-var str = '@import "a.scss";\r\n.import{';
-// str.replace(/(@import).*/, "$1");
+        ]
+    }
+}
 
-console.log(str.replace(/(@import).*\r\n+/g, ""));
+var package = '@braintree/sanitize-url'
+
+for (var i in packages) {
+    if (minimatch.makeRe(i).exec(package)) {
+        console.log(packages[i])
+    }
+}

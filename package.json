@@ -1,6 +1,6 @@
 {
   "name": "babel-node-test",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "babel node test",
   "repository": {
     "type": "git",
@@ -47,6 +47,7 @@
     "babel-preset-react": "6.23.0",
     "babel-preset-stage-0": "6.5.0",
     "eslint-plugin-react": "^2.3.0",
-    "webpack-dev-server": "^1.8.2"
+    "webpack-dev-server": "^1.8.2",
+    "minimatch": "3.0.2"
   }
 }
